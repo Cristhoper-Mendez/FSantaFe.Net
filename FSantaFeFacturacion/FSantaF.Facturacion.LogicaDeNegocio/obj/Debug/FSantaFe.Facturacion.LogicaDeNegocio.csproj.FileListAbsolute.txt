@@ -1,0 +1,11 @@
+D:\Tareas\Projects\Visual Studio 2019\FSantaFeFacturacion\FSantaFeFacturacion\FSantaF.Facturacion.LogicaDeNegocio\bin\Debug\FSantaF.Facturacion.LogicaDeNegocio.dll
+D:\Tareas\Projects\Visual Studio 2019\FSantaFeFacturacion\FSantaFeFacturacion\FSantaF.Facturacion.LogicaDeNegocio\bin\Debug\FSantaF.Facturacion.LogicaDeNegocio.pdb
+D:\Tareas\Projects\Visual Studio 2019\FSantaFeFacturacion\FSantaFeFacturacion\FSantaF.Facturacion.LogicaDeNegocio\bin\Debug\FSantaF.Facturacion.AccesoADatos.dll
+D:\Tareas\Projects\Visual Studio 2019\FSantaFeFacturacion\FSantaFeFacturacion\FSantaF.Facturacion.LogicaDeNegocio\bin\Debug\FSantaFe.Facturacion.EntidadesDeNegocio.dll
+D:\Tareas\Projects\Visual Studio 2019\FSantaFeFacturacion\FSantaFeFacturacion\FSantaF.Facturacion.LogicaDeNegocio\bin\Debug\FSantaF.Facturacion.AccesoADatos.pdb
+D:\Tareas\Projects\Visual Studio 2019\FSantaFeFacturacion\FSantaFeFacturacion\FSantaF.Facturacion.LogicaDeNegocio\bin\Debug\FSantaFe.Facturacion.EntidadesDeNegocio.pdb
+D:\Tareas\Projects\Visual Studio 2019\FSantaFeFacturacion\FSantaFeFacturacion\FSantaF.Facturacion.LogicaDeNegocio\obj\Debug\FSantaFe.Facturacion.LogicaDeNegocio.csprojAssemblyReference.cache
+D:\Tareas\Projects\Visual Studio 2019\FSantaFeFacturacion\FSantaFeFacturacion\FSantaF.Facturacion.LogicaDeNegocio\obj\Debug\FSantaFe.Facturacion.LogicaDeNegocio.csproj.CoreCompileInputs.cache
+D:\Tareas\Projects\Visual Studio 2019\FSantaFeFacturacion\FSantaFeFacturacion\FSantaF.Facturacion.LogicaDeNegocio\obj\Debug\FSantaFe.Facturacion.LogicaDeNegocio.csproj.CopyComplete
+D:\Tareas\Projects\Visual Studio 2019\FSantaFeFacturacion\FSantaFeFacturacion\FSantaF.Facturacion.LogicaDeNegocio\obj\Debug\FSantaF.Facturacion.LogicaDeNegocio.dll
+D:\Tareas\Projects\Visual Studio 2019\FSantaFeFacturacion\FSantaFeFacturacion\FSantaF.Facturacion.LogicaDeNegocio\obj\Debug\FSantaF.Facturacion.LogicaDeNegocio.pdb

@@ -1,0 +1,9 @@
+D:\Tareas\Projects\Visual Studio 2019\FSantaFeFacturacion\FSantaFeFacturacion\FSantaF.Facturacion.AccesoADatos\bin\Debug\FSantaF.Facturacion.AccesoADatos.dll
+D:\Tareas\Projects\Visual Studio 2019\FSantaFeFacturacion\FSantaFeFacturacion\FSantaF.Facturacion.AccesoADatos\bin\Debug\FSantaF.Facturacion.AccesoADatos.pdb
+D:\Tareas\Projects\Visual Studio 2019\FSantaFeFacturacion\FSantaFeFacturacion\FSantaF.Facturacion.AccesoADatos\bin\Debug\FSantaFe.Facturacion.EntidadesDeNegocio.dll
+D:\Tareas\Projects\Visual Studio 2019\FSantaFeFacturacion\FSantaFeFacturacion\FSantaF.Facturacion.AccesoADatos\bin\Debug\FSantaFe.Facturacion.EntidadesDeNegocio.pdb
+D:\Tareas\Projects\Visual Studio 2019\FSantaFeFacturacion\FSantaFeFacturacion\FSantaF.Facturacion.AccesoADatos\obj\Debug\FSantaFe.Facturacion.AccesoADatos.csprojAssemblyReference.cache
+D:\Tareas\Projects\Visual Studio 2019\FSantaFeFacturacion\FSantaFeFacturacion\FSantaF.Facturacion.AccesoADatos\obj\Debug\FSantaFe.Facturacion.AccesoADatos.csproj.CoreCompileInputs.cache
+D:\Tareas\Projects\Visual Studio 2019\FSantaFeFacturacion\FSantaFeFacturacion\FSantaF.Facturacion.AccesoADatos\obj\Debug\FSantaFe.Facturacion.AccesoADatos.csproj.CopyComplete
+D:\Tareas\Projects\Visual Studio 2019\FSantaFeFacturacion\FSantaFeFacturacion\FSantaF.Facturacion.AccesoADatos\obj\Debug\FSantaF.Facturacion.AccesoADatos.dll
+D:\Tareas\Projects\Visual Studio 2019\FSantaFeFacturacion\FSantaFeFacturacion\FSantaF.Facturacion.AccesoADatos\obj\Debug\FSantaF.Facturacion.AccesoADatos.pdb

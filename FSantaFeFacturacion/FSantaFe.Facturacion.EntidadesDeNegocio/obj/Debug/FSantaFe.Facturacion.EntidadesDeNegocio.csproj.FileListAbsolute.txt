@@ -1,0 +1,6 @@
+D:\Tareas\Projects\Visual Studio 2019\FSantaFeFacturacion\FSantaFeFacturacion\FSantaFe.Facturacion.EntidadesDeNegocio\bin\Debug\FSantaFe.Facturacion.EntidadesDeNegocio.dll
+D:\Tareas\Projects\Visual Studio 2019\FSantaFeFacturacion\FSantaFeFacturacion\FSantaFe.Facturacion.EntidadesDeNegocio\bin\Debug\FSantaFe.Facturacion.EntidadesDeNegocio.pdb
+D:\Tareas\Projects\Visual Studio 2019\FSantaFeFacturacion\FSantaFeFacturacion\FSantaFe.Facturacion.EntidadesDeNegocio\obj\Debug\FSantaFe.Facturacion.EntidadesDeNegocio.csprojAssemblyReference.cache
+D:\Tareas\Projects\Visual Studio 2019\FSantaFeFacturacion\FSantaFeFacturacion\FSantaFe.Facturacion.EntidadesDeNegocio\obj\Debug\FSantaFe.Facturacion.EntidadesDeNegocio.csproj.CoreCompileInputs.cache
+D:\Tareas\Projects\Visual Studio 2019\FSantaFeFacturacion\FSantaFeFacturacion\FSantaFe.Facturacion.EntidadesDeNegocio\obj\Debug\FSantaFe.Facturacion.EntidadesDeNegocio.dll
+D:\Tareas\Projects\Visual Studio 2019\FSantaFeFacturacion\FSantaFeFacturacion\FSantaFe.Facturacion.EntidadesDeNegocio\obj\Debug\FSantaFe.Facturacion.EntidadesDeNegocio.pdb
